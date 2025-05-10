@@ -1,10 +1,10 @@
-# DeepDefender
+# 🛡️ Deep Defender
 
  DeepDefender is an advanced malware detection platform powered by machine learning. Our mission is to
  provide comprehensive protection against digital threats by leveraging cutting-edge technology to scan
  files, URLs, and more.
 
- ## Features
+ ## 🚀 Features
 
 - 🧠 **Machine Learning Integration** – Uses a trained ML model for intelligent analysis or predictions
 - 🔒 **JWT Authentication** – Secure login and token-based access
@@ -24,7 +24,7 @@ The core logic includes an ML model (e.g., for detection/classification), which 
 - Can be expanded to use TensorFlow.js, ONNX, or Python-based APIs
 
 
-## Installation
+## 📦 Installation
 
 Clone the repository and install dependencies:
 
